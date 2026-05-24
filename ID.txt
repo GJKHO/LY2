@@ -1,0 +1,5 @@
+# Adsgram 广告位 Block ID 配置
+# 激励广告（Reward）：填写纯数字 Block ID
+REWARD_BLOCK_ID=30689
+# 插屏广告（Interstitial）：必须加 int- 前缀
+INT_BLOCK_ID=int-30947
